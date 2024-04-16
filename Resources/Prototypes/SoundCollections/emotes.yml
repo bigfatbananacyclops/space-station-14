@@ -79,3 +79,144 @@
   id: Weh
   files:
   - /Audio/Items/Toys/weh.ogg
+
+- type: soundCollection
+  id: MaleHum
+  files:
+
+- type: soundCollection
+  id: FemaleHum
+  files:
+
+- type: soundCollection
+  id: ChildHum
+  files:
+
+- type: soundCollection
+  id: MaleHmm
+  files:
+
+- type: soundCollection
+  id: FemaleHmm
+  files:
+
+- type: soundCollection
+  id: ChildHmm
+  files:
+
+- type: soundCollection
+  id: Whistle
+  files:
+
+- type: soundCollection
+  id: MaleCry
+  files:
+
+- type: soundCollection
+  id: FemaleCry
+  files:
+
+- type: soundCollection
+  id: ChildCry
+  files:
+
+- type: soundCollection
+  id: Bow
+  files:
+
+- type: soundCollection
+  id: MaleGiggle
+  files:
+
+- type: soundCollection
+  id: FemaleGiggle
+  files:
+
+- type: soundCollection
+  id: ChildGiggle
+  files:
+
+- type: soundCollection
+  id: MaleSigh
+  files:
+
+- type: soundCollection
+  id: FemaleSigh
+  files:
+
+- type: soundCollection
+  id: ChildSigh
+  files:
+
+- type: soundCollection
+  id: MaleWhimper
+  files:
+
+- type: soundCollection
+  id: FemaleWhimper
+  files:
+
+- type: soundCollection
+  id: ChildWhimper
+  files:
+
+- type: soundCollection
+  id: SpitOn
+  files:
+
+- type: soundCollection
+  id: Kiss
+  files:
+
+- type: soundCollection
+  id: MaleYawn
+  files:
+
+- type: soundCollection
+  id: FemaleYawn
+  files:
+
+- type: soundCollection
+  id: ChildYawn
+  files:
+
+- type: soundCollection
+  id: MaleClearThroat
+  files:
+
+- type: soundCollection
+  id: FemaleClearThroat
+  files:
+
+- type: soundCollection
+  id: ChildClearThroat
+  files:
+
+- type: soundCollection
+  id: MaleCough
+  files:
+
+- type: soundCollection
+  id: FemaleCough
+  files:
+
+- type: soundCollection
+  id: ChildCough
+  files:
+
+- type: soundCollection
+  id: MaleGrumble
+  files:
+
+- type: soundCollection
+  id: FemaleGrumble
+  files:
+
+- type: soundCollection
+  id: ChildGrumble
+  files:
+
+- type: soundCollection
+  id: Slap
+  files:
+
